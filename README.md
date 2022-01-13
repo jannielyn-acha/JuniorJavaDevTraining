@@ -86,16 +86,7 @@ ___
 	1. What is the command to execute if you want to store your local changes in a stash?
 	2. (**Bonus! Data Struct Refresher**) Stash follows the principle of  LIFO(FILO) or LILO(FIFO)?
 ---
-24. Fetch the remote branches of your fellow interns and checkout to their branch:
-
-| You | Branch Assignment |
-|:---:|:---:|
-| Arnan | Cloyd's branch |
-| Cloyd | Rayl's branch |
-| Rayl | Arnan's branch |
-
-e.g. Arnan -> will checkout to `cloyd-task` branch. 
-**Note**: Wait for others if you cannot fetch their remote branch.
+24. Checkout origin/test/stash branch:
 
 25. Pop your stash code. Conflict will occur.
 
